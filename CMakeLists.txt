@@ -2,7 +2,7 @@ cmake_minimum_required(VERSION 3.15)
 
 set(MAIN_TARGET_NAME constexpr-hash-map)
 set(MAIN_TARGET_FOLDER_NAME constexpr-hash-map)
-set(PROJECT_VERSION 1.2.1)
+set(PROJECT_VERSION 1.2.0)
 
 # set the project name
 project(${MAIN_TARGET_NAME} LANGUAGES CXX VERSION ${PROJECT_VERSION})
